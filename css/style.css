@@ -1,0 +1,32 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: #17202A
+}
+
+.Quem-somos {
+    background-color: #C7CBCC;
+    color:black
+}
+
+/* Margin-top cria uma margem branca, enquanto padding cria uma margem interna, como se estendesse o componente */
+
+.margin {
+    padding-bottom: 50px;
+    padding-top:  10px;
+}
+
+.parceiros {
+    background-color: #566573;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    background-size: auto;
+}
+
+.trabalho {
+    background-color: #C1C4C5;
+}
